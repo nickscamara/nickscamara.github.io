@@ -938,6 +938,12 @@ h3 {
   }
 }
 
+.logoimg
+{
+  width:140px; 
+
+}
+
 @media (max-width: 767px) {
   /* line 70, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
