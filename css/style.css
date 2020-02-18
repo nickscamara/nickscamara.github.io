@@ -901,18 +901,22 @@ h3 {
   /* line 36, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area.details_nav_bg {
     padding-bottom: 10px;
+    width: 70px;
   }
 }
 
 /* line 56, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .logo-img {
   text-align: center;
+  width: 70px;
 }
 
 @media (max-width: 767px) {
   /* line 56, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img {
     text-align: left;
+    width: 70px;
+    height: 70px;
   }
 }
 
@@ -920,6 +924,8 @@ h3 {
   /* line 56, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img {
     text-align: left;
+    width: 70px;
+    height: 70px;
   }
 }
 
@@ -927,6 +933,8 @@ h3 {
   /* line 56, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img {
     text-align: left;
+    width: 70px;
+    height: 70px;
   }
 }
 
@@ -934,6 +942,7 @@ h3 {
   /* line 70, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
     width: 70px;
+    height: 70px;
   }
 }
 
@@ -941,6 +950,7 @@ h3 {
   /* line 70, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
     width: 70px;
+    height: 70px;
   }
 }
 
